@@ -6,12 +6,11 @@ This project simulates a pendulum motion using Python and Pygame. It aims to pro
 
 ## Installation
 
-To run this project, you need Python and Pygame installed on your system. You can install Pygame using pip:
+To run this project, you need Python and the libraries installed on your system. You can use these commands:
 
 ```sh
 git clone https://github.com/cparthiv/pendulum
 pip install pygame
+python pendulum.py
 
 ```
-
-python pendulum.py
